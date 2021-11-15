@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Добро пожаловать!
 
 You can use the [editor on GitHub](https://github.com/Stiyudent/github-slideshow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
